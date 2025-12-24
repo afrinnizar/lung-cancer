@@ -137,9 +137,4 @@ The results demonstrate that machine learning models can effectively identify su
 This project showcases the practical application of machine learning in healthcare analytics. By analyzing patient data, the model provides valuable insights that can assist medical professionals in understanding survival trends and improving decision-making.
 
 
-If you want, I can also:
 
-* Simplify this README (EL10 level)
-* Add **badges**, **screenshots**, or **dataset visuals**
-* Rewrite it for **resume / LinkedIn / portfolio**
-  Just tell me 😊
